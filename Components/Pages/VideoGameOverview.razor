@@ -1,0 +1,35 @@
+@pang "/games"
+@inject IVideoGameService VideoGameService
+
+<PageTitle>Video Game</PageTitle>
+<h3>Video Game</h3>
+
+@if(VideoGames.Count == 0)
+{
+    <p><em>Loading Video Game...</em></p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Title</th>
+                <th>Publisher</th>
+                <th>Release year</th>
+            </tr>
+        </thead>
+        <tbody>
+            
+        </tbody>
+    </table>
+}
+
+@code {
+    List<VideoGame> VideoGames= new List<VideoGame>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        VideoGame = await VideoGameService.GetAllGamesAsync();
+
+    }
+}

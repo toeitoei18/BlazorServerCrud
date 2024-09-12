@@ -1,10 +1,10 @@
-@pang "/games"
+@page "/games"
 @inject IVideoGameService VideoGameService
 
 <PageTitle>Video Game</PageTitle>
 <h3>Video Game</h3>
 
-@if(VideoGames.Count == 0)
+@if(videoGames.Count == 0)
 {
     <p><em>Loading Video Game...</em></p>
 }
@@ -19,17 +19,24 @@ else
             </tr>
         </thead>
         <tbody>
-            
+            @foreach (var game in videoGames)
+            {
+                <tr>
+                    <td>@game.Title</td>
+                    <td>@game.Publisher</td>
+                    <td>@game.ReleaseYear</td>
+                </tr>
+            }
         </tbody>
     </table>
 }
 
 @code {
-    List<VideoGame> VideoGames= new List<VideoGame>();
+    List<VideoGame> videoGames= new List<VideoGame>();
 
     protected override async Task OnInitializedAsync()
     {
-        VideoGame = await VideoGameService.GetAllGamesAsync();
+        videoGames = await VideoGameService.GetAllGamesAsync();
 
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0SBvUlVWptA=",
+  "dgSpecHash": "4uH8/eF2Hkk=",
   "success": true,
-  "projectFilePath": "D:\\BlazorServerCrudDotnet8\\BlazorServerCrudDotnet8.csproj",
+  "projectFilePath": "C:\\BlazorServerCrudDotnet8\\BlazorServerCrudDotnet8.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "pAnRNKlJpDAtdRDeOyu8ZCb6JpNJFDICZhZD67qmBv8=",
+  "Hash": "R+hl3iye/JcO0TH7K8UXs73RnXh5NZ4sjGZD2WGgtzc=",
   "Source": "BlazorServerCrudDotnet8",
   "BasePath": "_content/BlazorServerCrudDotnet8",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "BlazorServerCrudDotnet8\\wwwroot",
       "Source": "BlazorServerCrudDotnet8",
-      "ContentRoot": "D:\\BlazorServerCrudDotnet8\\wwwroot\\",
+      "ContentRoot": "C:\\BlazorServerCrudDotnet8\\wwwroot\\",
       "BasePath": "_content/BlazorServerCrudDotnet8",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\BlazorServerCrudDotnet8\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorServerCrudDotnet8.styles.css",
+      "Identity": "C:\\BlazorServerCrudDotnet8\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorServerCrudDotnet8.styles.css",
       "SourceId": "BlazorServerCrudDotnet8",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\BlazorServerCrudDotnet8\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\BlazorServerCrudDotnet8\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/BlazorServerCrudDotnet8",
       "RelativePath": "BlazorServerCrudDotnet8.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\BlazorServerCrudDotnet8\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorServerCrudDotnet8.styles.css"
+      "OriginalItemSpec": "C:\\BlazorServerCrudDotnet8\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorServerCrudDotnet8.styles.css"
     },
     {
-      "Identity": "D:\\BlazorServerCrudDotnet8\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorServerCrudDotnet8.bundle.scp.css",
+      "Identity": "C:\\BlazorServerCrudDotnet8\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorServerCrudDotnet8.bundle.scp.css",
       "SourceId": "BlazorServerCrudDotnet8",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\BlazorServerCrudDotnet8\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\BlazorServerCrudDotnet8\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/BlazorServerCrudDotnet8",
       "RelativePath": "BlazorServerCrudDotnet8.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\BlazorServerCrudDotnet8\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorServerCrudDotnet8.bundle.scp.css"
+      "OriginalItemSpec": "C:\\BlazorServerCrudDotnet8\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorServerCrudDotnet8.bundle.scp.css"
     },
     {
-      "Identity": "D:\\BlazorServerCrudDotnet8\\wwwroot\\app.css",
+      "Identity": "C:\\BlazorServerCrudDotnet8\\wwwroot\\app.css",
       "SourceId": "BlazorServerCrudDotnet8",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\BlazorServerCrudDotnet8\\wwwroot\\",
+      "ContentRoot": "C:\\BlazorServerCrudDotnet8\\wwwroot\\",
       "BasePath": "_content/BlazorServerCrudDotnet8",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "D:\\BlazorServerCrudDotnet8\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\BlazorServerCrudDotnet8\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "BlazorServerCrudDotnet8",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\BlazorServerCrudDotnet8\\wwwroot\\",
+      "ContentRoot": "C:\\BlazorServerCrudDotnet8\\wwwroot\\",
       "BasePath": "_content/BlazorServerCrudDotnet8",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\BlazorServerCrudDotnet8\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\BlazorServerCrudDotnet8\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "BlazorServerCrudDotnet8",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\BlazorServerCrudDotnet8\\wwwroot\\",
+      "ContentRoot": "C:\\BlazorServerCrudDotnet8\\wwwroot\\",
       "BasePath": "_content/BlazorServerCrudDotnet8",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\BlazorServerCrudDotnet8\\wwwroot\\favicon.png",
+      "Identity": "C:\\BlazorServerCrudDotnet8\\wwwroot\\favicon.png",
       "SourceId": "BlazorServerCrudDotnet8",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\BlazorServerCrudDotnet8\\wwwroot\\",
+      "ContentRoot": "C:\\BlazorServerCrudDotnet8\\wwwroot\\",
       "BasePath": "_content/BlazorServerCrudDotnet8",
       "RelativePath": "favicon.png",
       "AssetKind": "All",

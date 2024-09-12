@@ -1,6 +1,8 @@
-namespace BlazorServerCrudDotnet8.Data
+using BlazorServerCrudDotnet8.Models;
+
+namespace BlazorServerCrudDotnet8.Services
 {
-    public class IVideoGameService 
+    public interface IVideoGameService 
     {
         Task<List<VideoGame>> GetAllGamesAsync();
         
